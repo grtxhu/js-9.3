@@ -3,8 +3,6 @@ var charArray = text.split(" ");
 console.log(charArray);
 console.log(charArray[0]);
 
-var text = charArray.join([separator = ' '])
-console.log(text);
 var dinosaur = 'triceratops';
 var secondDinosaur = dinosaur.toUpperCase();
 console.log(secondDinosaur); 
